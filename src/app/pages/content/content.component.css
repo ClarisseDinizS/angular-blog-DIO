@@ -9,10 +9,12 @@
   flex-direction: column;
 
   align-items: center;
+
+  text-align: center;
 }
 
 .content__cover > img{
-  border:5px solid rgb(144, 144, 144);
+  border:2px solid rgb(233, 227, 227);
   border-radius: 5px;
   width: 500px;
   min-width: 500px;
@@ -25,5 +27,5 @@
 
 .content__description > p{
   margin-top: 20px;
-  color: rgb(198, 197, 197);
+  color: rgb(2, 0, 0);
 }

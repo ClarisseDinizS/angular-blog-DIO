@@ -1,14 +1,28 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "Park Huyn-sik e Park Boo-young marcam presença em Spinn-Off",
+    "description": "Os atores de Strong Woman Do Bong Soon estão presentes no spinn-off Strong Girl Nam-soon e fãs ficam encantados",
+    "photoCover":"https://i0.wp.com/coreanasdetaubate.com/wp-content/uploads/2023/10/20231013_014231_0000.png?w=900&ssl=1"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Sorriso Real chega na Netflix e encanta os dorameiros",
+    "description": "Em meio a uma disputa pela herança, um charmoso herdeiro de uma rede de hotéis se apaixona por uma mulher carismática e seu enorme sorriso.",
+    "photoCover":"https://proxy.olhardigital.com.br/wp-content/uploads/2023/08/1-sorriso-real-dorama.png"
+  },
+
+  {
+    "id":"3",
+    "title": "Novo filme com Lee Jung Suk é um thriller de ação",
+    "description": "Decibel é um thriller de ação sobre um terrorista que quer plantar uma bomba que responde a sons no meio da cidade e um ex-comandante da Marinha que se torna o alvo da ameaça terrorista.",
+    "photoCover":"https://i0.wp.com/coreanasdetaubate.com/wp-content/uploads/2021/10/img_4715.jpg?resize=1284%2C800&ssl=1g"
+  },
+
+  {
+    "id":"4",
+    "title": "Hospital Playlist: dorama ajuda a refletir sobre vocação",
+    "description": "Personagem de drama coreano enfrenta dilema entre ser padre ou ser médico",
+    "photoCover":"https://www.a12.com/source/files/originals/dorama-hospital-playlist-502641.jpg"
   }
 ]
